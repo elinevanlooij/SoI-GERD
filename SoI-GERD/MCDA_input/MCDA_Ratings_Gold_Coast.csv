@@ -1,0 +1,18 @@
+MCDA Great Ethiopian Renaissance Dam;;;;;;
+Stakeholder;Criteria;Multiple smaller dams;Buttress dam;Embankment dam;Gravity dam ;Criteria_Weight
+Ethiopian government;Energy generation;80;100;10;0;0.50
+Ethiopian government;Economical growth;25;0;80;100;0.35
+Ethiopian government;Reputation;50;50;0;100;0.15
+Downstream governments;Water supply;0;0;80;100;0.45
+Downstream governments;Flood prevention;100;100;0;0;0.35
+Downstream governments;Energy generation;70;100;0;0;0.20
+Local residents;Hinder;80;100;20;0;0.20
+Local residents;Esthetics;100;50;0;0;0.05
+Local residents;Water supply;0;100;0;10;0.30
+Local residents;Flood prevention;100;90;0;0;0.20
+Local residents;Employment;0;100;0;5;0.20
+Local residents;Risk of dam failure;0;0;80;100;0.05
+Environmentalists;Disruption of ecosystems;;;;;0.35
+Environmentalists;Reduced soil fertility;;;;;0.25
+Environmentalists;CO2-impact;;;;;0.20
+Environmentalists;Green energy;;;;;0.20
